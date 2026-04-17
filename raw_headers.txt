@@ -1,0 +1,72 @@
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+authorization
+SAPISIDHASH 1776455943_a1ed486e80b2ebcb9e75afe565472740b5e9d662_u SAPISID1PHASH 1776455943_a1ed486e80b2ebcb9e75afe565472740b5e9d662_u SAPISID3PHASH 1776455943_a1ed486e80b2ebcb9e75afe565472740b5e9d662_u
+content-encoding
+gzip
+content-length
+2242
+content-type
+application/json
+cookie
+VISITOR_INFO1_LIVE=6yYcGHxpjB4; VISITOR_PRIVACY_METADATA=CgJJThIEGgAgEA%3D%3D; VISITOR_PRIVACY_METADATA=CgJJThIEGgAgEA%3D%3D; VISITOR_INFO1_LIVE=6yYcGHxpjB4; HSID=AWUSok69ucX8beG4d; SSID=AKTOTaX7_igQdUsAp; APISID=sxTQb6ahANB35bBu/ARVyrVXgKmyTyPntP; SAPISID=yyaqHRDbzGRP7nba/AtV5iOEq_CfQGb7w_; __Secure-1PAPISID=yyaqHRDbzGRP7nba/AtV5iOEq_CfQGb7w_; __Secure-3PAPISID=yyaqHRDbzGRP7nba/AtV5iOEq_CfQGb7w_; LOGIN_INFO=AFmmF2swRQIhAONwFds9SgKaU2LL-ew97d5J3Ur9G_vY5ZcJv8zOFXaXAiBQV0xs7-4W43RkKg6VkEXWx4FoEHW5VkUNw0rW0RmIGQ:QUQ3MjNmemMxeHR4SS1UeHA4MHA2Z1JQQ1ZQYmxMZE56bGZWcG8zd0F0VFdXRW9ycmh2OU1LeHN6RWhCc0xtNUdzZkNlTEIxMmdDZ2tFbEZhNUM1bW9pRjY0ZkQ1VWFlTWRVWm5MOGtTUlUwUUgtQjdndnNZaS1HVzNUczZCY1RKV3B2bUItUEh5UGd1S1Y5MW9ScVUwMXY0aUg4bzJ3OGJ3; PREF=f6=40000080&f7=100&tz=Asia.Calcutta&repeat=NONE&f4=4000000&autoplay=true&f5=30000; __Secure-BUCKET=CO0E; __Secure-YNID=17.YT=Imif8YIWn8AitGoFDt5pmzsQhyxeaC73qyDiij0sIDpfE6Ag9mmvMXLLIB8SHn2H3YXAknleKWJp-OkMnL9ZQYhkL5qrUUbZwejknqsoGsuUVQ2B5bd0rHjtdPUB7mnHOBD-QCrgo_6I0e9wFI8Ic-VR_RFKo7sNN9lQo9u2ob0rBhU6X25NqA-ieIZL9CKR-iybhJCGwDxdU7xMd2tnjGa3DrjEolrOIFXUBycrVdvvLL_oWgIvaRy_PdGEl2g_S1dY8-9OnHPHVgLV_7a2lvHQfD8L2AFFhl8-L5hzT-rtAsoHRfUUJIRDftnUUV0py7m1cVVX3RC8-tmDDCRiiw; YSC=gzE0Cxd6WCo; SID=g.a0008wiXj4pQqgQCRr4t4evamDmbfZGM7rffumboH9OVq7qS2VaiGyFBxLO1sKO3pOhBQMQx6wACgYKARMSARESFQHGX2MiZ7z_7SvOsGhZ1sUwYCizEhoVAUF8yKrD0FB5T9eW4jsJNzZ-kejU0076; __Secure-1PSID=g.a0008wiXj4pQqgQCRr4t4evamDmbfZGM7rffumboH9OVq7qS2VaiRwUKPIGGWP6dEFwv2RWcRAACgYKAd4SARESFQHGX2MijLZyJaZ8punGRQVM0l5MjxoVAUF8yKqGXJ11i1GfIKZK36QIqOoa0076; __Secure-3PSID=g.a0008wiXj4pQqgQCRr4t4evamDmbfZGM7rffumboH9OVq7qS2VaiNi22PUPL82ivfiL0u6VmgAACgYKAZcSARESFQHGX2Miyp0w3TWRWeP5RpGNVIgIgRoVAUF8yKrYdJXi-aMo8xTPFr12qMNA0076; YSC=Hjg87Z4T8-s; __Secure-1PSIDTS=sidts-CjUBWhotCZ7U-fE-wFV5AU0yykBoMiJhQYiTUKZJ-2CsZpoOpXsuVVq0RKi1M_IM7HUIhWsVwRAA; __Secure-3PSIDTS=sidts-CjUBWhotCZ7U-fE-wFV5AU0yykBoMiJhQYiTUKZJ-2CsZpoOpXsuVVq0RKi1M_IM7HUIhWsVwRAA; __Secure-YNID=17.YT=l0Y9CMIFXouHtPlkBpXgjWH-nZ_Fdl1dlrmVY40gHiA5ryyZNhQRWtWP4b8Lz-34RbmmBa8Y38Xh2LODNxcjQzNrJtW4zQqTmzgZFA8EyydIrSIS5mzGQxt-RCu_Cz3RKJGwt7yL6jkV_TzQGZGJOGwRPCEd5da_7gjaP97Nz2oMq4ZqJPia_Dua-L8iW02TLRSpgTEGnL4473HBHRLUMoyQMGey9yS4ucSO2YhRUBeubytisFWtwAGDNsxHlOYcBmGAm-Rn8s--eZqbLWnIpvazFuAeXNiEJAu0vBprvHzbu4iomPHZHAQLFts3rwBr79ZY9cpje10ec2ZpUxU5iw; __Secure-ROLLOUT_TOKEN=CJm_oYKrvInYcxCIheKhlPCMAxjd0pmH1fWTAw%3D%3D; SIDCC=AKEyXzWJoENt3KgCv0iFHMEJB0Y41lNH2byX6BGdK3WoR2PhNSLub-d6Wp-UYMFoXR6EGPUapg; __Secure-1PSIDCC=AKEyXzUX1fNt0-lBwMRoT9pexB5vNOz5aZZ-1yu-eEybOe11Fbmnde2fT6Y_5f_cYJjXLT1HzQ; __Secure-3PSIDCC=AKEyXzVje4JQpymyQhdUHCf_V1_Cdl8lDclcgjQMVSUtzp_DWyqsUBR2zW23vGJcfwGSiayCxgdi
+origin
+https://music.youtube.com
+priority
+u=1, i
+referer
+https://music.youtube.com/
+sec-ch-ua
+"Not.A/Brand";v="8", "Chromium";v="147", "Google Chrome";v="147"
+sec-ch-ua-arch
+"x86"
+sec-ch-ua-bitness
+"64"
+sec-ch-ua-form-factors
+"Desktop"
+sec-ch-ua-full-version
+"147.0.7727.56"
+sec-ch-ua-full-version-list
+"Not.A/Brand";v="8.0.0.0", "Chromium";v="147.0.7727.56", "Google Chrome";v="147.0.7727.56"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-model
+""
+sec-ch-ua-platform
+"Windows"
+sec-ch-ua-platform-version
+"19.0.0"
+sec-ch-ua-wow64
+?0
+sec-fetch-dest
+empty
+sec-fetch-mode
+same-origin
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+x-browser-channel
+stable
+x-browser-copyright
+Copyright 2026 Google LLC. All Rights reserved.
+x-browser-validation
+ay2VkFgiz37bVmZ/apUEVmB+zrQ=
+x-browser-year
+2026
+x-goog-authuser
+0
+x-goog-visitor-id
+Cgs2eVljR0h4cGpCNCipoYrPBjIKCgJJThIEGgAgEGLfAgrcAjE3LllUPWwwWTlDTUlGWG91SHRQbGtCcFhnaldILW5aX0ZkbDFkbHJtVlk0MGdIaUE1cnl5Wk5oUVJXdFdQNGI4THotMzRSYm1tQmE4WTM4WGgyTE9ETnhjalF6TnJKdFc0elFxVG16Z1pGQThFeXlkSXJTSVM1bXpHUXh0LVJDdV9DejNSS0pHd3Q3eUw2amtWX1R6UUdaR0pPR3dSUENFZDVkYV83Z2phUDk3Tnoyb01xNFpxSlBpYV9EdWEtTDhpVzAyVExSU3BnVEVHbkw0NDczSEJIUkxVTW95UU1HZXk5eVM0dWNTTzJZaFJVQmV1Ynl0aXNGV3R3QUdETnN4SGxPWWNCbUdBbS1SbjhzLS1lWnFiTFduSXB2YXpGdUFlWE5pRUpBdTB2QnBydkh6YnU0aW9tUEhaSEFRTEZ0czNyd0JyNzlaWTljcGplMTBlYzJacFV4VTVpdw%3D%3D
+x-origin
+https://music.youtube.com
+x-youtube-bootstrap-logged-in
+true
+x-youtube-client-name
+67
+x-youtube-client-version
+1.20260414.05.00
